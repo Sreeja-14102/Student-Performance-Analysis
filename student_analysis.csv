@@ -1,0 +1,16 @@
+student_id,name,gender,attendance,math,science,english,computer,total_marks,average_marks
+101,Arun,Male,92,85,90,78,95,348,87.0
+102,Anu,Female,88,90,85,92,89,356,89.0
+103,Rahul,Male,75,65,70,68,75,278,69.5
+104,Priya,Female,95,95,92,90,98,375,93.75
+105,Kiran,Male,80,72,75,80,82,309,77.25
+106,Meera,Female,90,88,91,85,93,357,89.25
+107,Vijay,Male,68,55,60,65,70,250,62.5
+108,Divya,Female,96,98,95,94,99,386,96.5
+109,Ajay,Male,85,78,82,75,80,315,78.75
+110,Neha,Female,78,82,80,88,85,335,83.75
+111,Manu,Male,89,91,87,84,90,352,88.0
+112,Anjali,Female,93,94,90,96,95,375,93.75
+113,Rohan,Male,72,68,72,70,74,284,71.0
+114,Sneha,Female,87,85,89,91,92,357,89.25
+115,Akash,Male,81,76,79,73,84,312,78.0

@@ -1,0 +1,16 @@
+student_id,name,gender,attendance,math,science,english,computer
+101,Arun,Male,92,85,90,78,95
+102,Anu,Female,88,90,85,92,89
+103,Rahul,Male,75,65,70,68,75
+104,Priya,Female,95,95,92,90,98
+105,Kiran,Male,80,72,75,80,82
+106,Meera,Female,90,88,91,85,93
+107,Vijay,Male,68,55,60,65,70
+108,Divya,Female,96,98,95,94,99
+109,Ajay,Male,85,78,82,75,80
+110,Neha,Female,78,82,80,88,85
+111,Manu,Male,89,91,87,84,90
+112,Anjali,Female,93,94,90,96,95
+113,Rohan,Male,72,68,72,70,74
+114,Sneha,Female,87,85,89,91,92
+115,Akash,Male,81,76,79,73,84
