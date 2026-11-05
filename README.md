@@ -68,3 +68,61 @@ Four charts are generated:
 This project demonstrates basic data analysis,
 database management, SQL querying and data
 visualisation using Python.
+Key Features
+
+- Analyze student academic performance.
+- Calculate average marks for students.
+- Identify student grades.
+- Analyze subject-wise performance.
+- Study the relationship between attendance and marks.
+- Generate visual reports using Matplotlib.
+- Store and analyze student records using SQLite and SQL.
+
+Data Visualizations
+
+1. Attendance Analysis
+
+"Attendance Analysis" (charts/attendance.png)
+
+2. Grade Distribution
+
+"Grade Distribution" (charts/grade_distribution.png)
+
+3. Student Average Marks
+
+"Student Average" (charts/student_average.png)
+
+4. Subject Average Marks
+
+"Subject Average" (charts/subject_average.png)
+
+Project Structure
+
+Student-Performance-Analysis/
+│
+├── charts/
+├── README.md
+├── main.py
+├── database.py
+├── sql_analysis.py
+├── visualization.py
+├── students.csv
+├── student_analysis.csv
+└── final_student_report.csv
+
+How to Run the Project
+
+1. Clone the repository.
+2. Install the required libraries.
+3. Run the Python program.
+
+pip install pandas matplotlib
+python main.py
+
+Conclusion
+
+This project demonstrates how Python, Pandas, SQL and SQLite can be used to analyze student academic performance and generate meaningful visualizations.
+
+Author
+
+Sreeja R.
